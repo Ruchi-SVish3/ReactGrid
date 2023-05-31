@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactGrid/static/css/main.073c9b0a.css",
+    "main.js": "/ReactGrid/static/js/main.d98d6e38.js",
+    "index.html": "/ReactGrid/index.html",
+    "main.073c9b0a.css.map": "/ReactGrid/static/css/main.073c9b0a.css.map",
+    "main.d98d6e38.js.map": "/ReactGrid/static/js/main.d98d6e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d98d6e38.js"
+  ]
+}
